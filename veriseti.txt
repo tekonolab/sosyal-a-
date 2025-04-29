@@ -1,0 +1,8 @@
+# Kullanicilar
+KULLANICI 1
+KULLANICI 2
+KULLANICI 3
+KULLANICI 4
+KULLANICI 5
+
+# Arkadaslik Iliskileri
